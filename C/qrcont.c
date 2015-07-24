@@ -16,9 +16,8 @@
 
 int printcount = 0;
 
-
-void    rotate_3d(double x1, double y1, double z1, double phi, double theta,
-                  double psi, double *x2, double *y2, double *z2);
+void rotate_3d(double x1,  double y1, double z1, double phi, double theta,
+               double psi, double *x2, double *y2, double *z2);
 
 
 /*--------------------------------------------------------------------------
